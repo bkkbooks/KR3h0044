@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0044/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部八
+  hash: sha256:ed7b890dbd4c5a48db16c46d7fbf2f236332a20a938d6348e5c3606dd689b6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0044_WYG_000-1a, image: WYG0815/WYG0815-0001a.png}
+body:
+  text: 珊瑚木難藝術類一書畫之屬提要臣等謹案珊瑚木難八卷明朱存理編存理字性父長洲人朱彞尊詩話稱存理自少至老未嘗一日忘學問人有異書必從訪求以必得為志所纂集凡數百卷既老不厭坐貧無以自資其書旋亦散去江南通志稱元季明初中吳南園何氏笠澤虞氏廬山陳氏書籍金石之富甲於海内繼其後者存理其尤也兹編悉載所見字畫題跋其卷中前人詩文世所罕覩者亦附録焉前有文徵明文嘉王穉登王騰程四人姓氏葢出於其家收藏者為多徵明等皆以賞鑒自許故所貯並屬名蹟存理又工於評隲大抵品題允當不愧馴雅之目與真贗雜糅者不同惟其書從無刻本流傳抄帙相沿頗多訛脱今詳加釐訂而闕其所不可知者著之於録至世别有鐵網珊瑚一書為趙琦美所編輯而傳者誤以為存理作遂與此書混而一之益非其實矣乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:6f6c0adc355050903335762c54710b73badfe3714f9e224d45a434a836bacc30
+metadata:
+  title: 珊瑚木難
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:15:09.373364'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3h0044/KR3h0044_000.txt
+hash: sha256:4639e65f10070c26304fbe556162e52d83fe65b13effc4f89805a8f2b4aa698c
